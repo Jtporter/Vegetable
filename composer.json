@@ -1,5 +1,5 @@
 {
-    "name": "Monorepo/vegetable",
+    "name": "monorepo/vegetable",
     "require": {
         "php": "^7.1",
         "symfony/http-kernel": "^4.1"
